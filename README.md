@@ -27,3 +27,5 @@ Includes scroll progress, controller parallax, section reveals, mouse tilt, and 
 The Worlds section includes five original SVG tributes: God of War, Ghost of Tsushima, Hollow Knight, Minecraft, and Valorant. Choose a game or use Next world to update its scene, typography, accent palette, and atmospheric effects. The active artwork moves subtly with scrolling. Reduced-motion preferences disable scene motion and particles.
 
 Scene files are editable vectors in assets/worlds/. Game configuration and selection logic are in script.js. A noscript gallery exposes the other illustrations when JavaScript is disabled. These are original illustrated tributes, not official screenshots or assets.
+
+See [artwork reference notes](ARTWORK.md) for the character and weapon references used in the illustrations.

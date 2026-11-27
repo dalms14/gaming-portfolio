@@ -1,0 +1,9 @@
+# Game artwork references
+
+The Worlds panels are original simplified SVG illustrations. Character details were corrected using these visual references:
+
+- God of War: [PlayStation - Leviathan Axe and game artwork](https://www.playstation.com/en-us/games/god-of-war/videos-and-screens/) and [Leviathan Axe silhouette reference](https://wallpapers.com/images/hd/leviathan-axe-godof-war-d6yf9eeq4unce6ah.png). The SVG now includes the curved bearded blade, carved haft, wrapped grip, rune sockets, and etched steel.
+- Ghost of Tsushima: [Drew Harrison - Ghost Armor set](https://drewparadise.artstation.com/projects/3dEkN2). The character wears a headband, dark layered armor, shoulder plates, wrapped sword grips, rope details, and a worn cape.
+- Valorant: [Riot Games - Jett](https://playvalorant.com/en-us/agents/jett/). The character has a sleeveless teal hooded vest, bare arms, fingerless gloves, utility trousers, and five metallic throwing knives with defined blades, wrapped grips, and ring pommels.
+
+Reference downloads were used for review only. The repository contains the editable SVG artwork rather than copies of those reference images.
