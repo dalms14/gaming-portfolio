@@ -7,3 +7,9 @@ The Worlds panels are original simplified SVG illustrations. Character details w
 - Valorant: [Riot Games - Jett](https://playvalorant.com/en-us/agents/jett/). The character has a sleeveless teal hooded vest, bare arms, fingerless gloves, utility trousers, and five metallic throwing knives with defined blades, wrapped grips, and ring pommels.
 
 Reference downloads were used for review only. The repository contains the editable SVG artwork rather than copies of those reference images.
+
+
+## Knight and selector symbols
+
+- The Knight's rounded mask, inward-curving horns, oval eye sockets, flowing layered cloak, and long tapered nail were checked against [Team Cherry's official Hollow Knight artwork](https://www.hollowknight.com/) and its Godmaster key art. The scene and the small selector icon share one mask outline, replacing the earlier pointed mask and CSS pseudo-element ears.
+- Ghost of Tsushima's selector uses a circular Sakai clan crest with the stacked chevron motif, replacing the decorative star. References: [PlayStation's official merchandise article](https://blog.playstation.com/2021/08/20/ghost-of-tsushima-directors-cut-official-merchandise/) and [Sakai crest reference](https://commons.wikimedia.org/wiki/File:Sakai_clan_symbol.png).
