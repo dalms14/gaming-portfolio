@@ -17,6 +17,6 @@ Reference downloads were used for review only. The repository contains the edita
 
 ## Minecraft and Valorant selector symbols
 
-- Minecraft uses an isometric grass block with green pixel-textured grass and shaded brown dirt faces. This is the classic grass-block motif discussed in [Mojang's icon article](https://www.minecraft.net/en-us/article/our-icons-are-changing), rather than a rotated generic square.
+- Minecraft uses an isometric grass block with pixel-textured grass and shaded dirt faces. This is the classic grass-block motif discussed in [Mojang's icon article](https://www.minecraft.net/en-us/article/our-icons-are-changing), rather than a rotated generic square.
 - Valorant uses the two separate angular shapes of the emblem, checked against [Riot's official asset kit](https://playvalorant.com/en-gb/news/game-updates/valorant-asset-kit/), rather than a clipped italic letter V.
-- Both symbols are inline SVGs, so their shapes stay consistent at small selector sizes. The old CSS stand-ins were removed.
+- Both symbols are inline SVGs using the same inherited grey as the other world selectors, with the shared selected-state tint. The block keeps its texture through opacity shading. The old CSS stand-ins were removed.

@@ -42,7 +42,6 @@
 
 /* Recognizable game emblems: pixel-textured grass cube and two-part VALORANT mark. */
 .minecraft-emblem{height:33px}
-.valorant-emblem{height:28px;color:#ff6676}
-.world-tab[data-world="valorant"][aria-pressed="true"] .valorant-emblem{color:#ffa8b2}
+.valorant-emblem{height:28px}
 @media(max-width:1100px){.minecraft-emblem{height:28px}.valorant-emblem{height:24px}}
 @media(max-width:540px){.minecraft-emblem{height:28px}.valorant-emblem{height:24px}}
