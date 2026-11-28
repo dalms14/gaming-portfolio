@@ -29,3 +29,11 @@ The Worlds section includes five original SVG tributes: God of War, Ghost of Tsu
 Scene files are editable vectors in assets/worlds/. Game configuration and selection logic are in script.js. A noscript gallery exposes the other illustrations when JavaScript is disabled. These are original illustrated tributes, not official screenshots or assets.
 
 See [artwork reference notes](ARTWORK.md) for the character and weapon references used in the illustrations.
+
+## Pixel void eye
+
+The Watcher travels between nine reserved portal spaces in the portfolio layout: the hero, Worlds header and exit, profile intro and exit, skills, project, education, and contact. Every space takes up real layout room, so the eye never lands over copy or buttons. The eye stays attached to its current space while scrolling, then travels along a three-strand pixel comet trail to the next visible space after scrolling settles. Scrolling during a transfer cancels it and selects the latest visible destination.
+
+The eye opens a void on arrival, follows the cursor, dilates when approached, and pulses when clicked nearby. Desktop and phone layouts reserve appropriately sized spaces. Reduced-motion mode moves instantly between spaces and disables animation. The eye and trail never intercept clicks or keyboard focus.
+
+Edit the void-eye-dock elements in index.html to move its landing spaces, void-eye.css for their layout and appearance, and void-eye.js for gaze and travel behavior. No external assets or dependencies are used.
